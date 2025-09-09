@@ -21,7 +21,7 @@ This application is for any medical marijuana patient in Florida who finds it ch
 
 ### For Users
 
-1.  Download the `ReUp.exe` file from the Releases page. <!-- Update this link -->
+1.  Download the `ReUp.exe` file from the latest Releases page.
 2.  Run the executable. No installation is required.
 3.  Enter your **Total 35-Day Allotment** (in ounces) and your **Cycle Start Date**. You can find this information on the Florida MMU Registry.
 4.  Click the **"ReUp"** button.
@@ -31,7 +31,7 @@ This application is for any medical marijuana patient in Florida who finds it ch
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+    git clone https://github.com/moondogdev/reup-allotment-calculator.git
     cd reup-allotment-calculator
     ```
 
