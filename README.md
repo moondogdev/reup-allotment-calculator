@@ -1,4 +1,4 @@
-# ReUp - Medical Allotment Calculator
+# ReUp - Medical Marijuana Allotment Calculator
 
 ReUp is a simple, user-friendly desktop application designed to help Florida medical marijuana patients manage their 35-day rolling allotment. It takes the guesswork out of purchasing by providing a clear, week-by-week plan to help you stay within your prescribed limits.
 
